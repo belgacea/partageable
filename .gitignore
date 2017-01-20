@@ -5,3 +5,4 @@ Backup
 .vs
 ipch
 *~
+*.VC.db
