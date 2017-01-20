@@ -2,7 +2,7 @@
 
 #define ComposantVersion_1 1
 #define ComposantVersion_2 2
-#define ComposantVersion_3 0
+#define ComposantVersion_3 3
 #define ComposantVersion_4 0
 
 /////////// apres cette ligne: ne pas modifier ///////////////////////////////
